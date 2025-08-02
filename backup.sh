@@ -8,16 +8,10 @@
 SOURCE_DIR="/home/cachy/Documents"
 
 # Define where you want to store the backups.
-<<<<<<< HEAD
-# This directory must exist.Create it in your home folder.
-||||||| parent of 86a21e8 (grammer mistake solves)
 # This directory must exist. Create it in your home folder.
-=======
-# This directory must exist. Create it in your home folder.
->>>>>>> 86a21e8 (grammer mistake solves)
 DEST_DIR="/home/cachy/Backups"
 
-# --- Script Logic ---
+# --- Script Logic --- 
 
 # Create the destination directory if it doesn't exist.
 # The -p flag ensures it doesn't show an error if the directory already exists.
