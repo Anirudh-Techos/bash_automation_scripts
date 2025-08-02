@@ -11,7 +11,7 @@ SOURCE_DIR="/home/cachy/Documents"
 <<<<<<< HEAD
 # This directory must exist.Create it in your home folder.
 ||||||| parent of 86a21e8 (grammer mistake solves)
-# This directory must exist. Let's create it in your home folder.
+# This directory must exist. Create it in your home folder.
 =======
 # This directory must exist. Create it in your home folder.
 >>>>>>> 86a21e8 (grammer mistake solves)
